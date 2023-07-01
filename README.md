@@ -1,5 +1,5 @@
-# OpneCore-EFI-BigSur-Acer-E5-476G
- Opencore EFI of Hackintosh BigSur for Acer E5 476G i5 8250u (EFI)
+# Open Core EFI Acer-E5-476G Big
+ Opencore EFI of Hackintosh BigSur for Acer E5 476G i3 8130u (EFI)
 
 ## Detail
 
@@ -10,17 +10,17 @@ Status: Stable
 ## Specification
 
 - Name: Acer E5-476G
-- Processor: Intel Core i5 8250U (Base 1,6 GHz/Turbo Boost 3,4 GHz)
+- Processor: Intel Core i5 8130U (Base 2,2 GHz/Turbo Boost 3,4 GHz)
 - Motherboard: Intel Kaby Lake-U + iHDCP 2.2 Premium PCH
 - Wifi: Intel® Dual Band Wireless-AC 3168
 - Audio: Realtek ALC255
 - Graphics: 
   * IGP: Intel UHD Graphics 620
   * Discrete: GeForce MX150 2 GB GDDR5
-- Display: 14 inch @1940 x 1080 pixels @60 Hz
+- Display: 14 inch @1366 x 768 pixels @60 Hz
 - Storage:
   * HDD: 1 TB HDD
-  * SSD: 120GB
+  * SSD: 240GB
 
 ## Work
 
@@ -36,6 +36,3 @@ Status: Stable
 ## Not work
 
 1. Discrete Graphics: GeForce MX150 2 GB GDDR5
-
-
-Any help? Follow me => https://instagaram.com/temamumtaza
